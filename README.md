@@ -8,7 +8,7 @@
 # Languages
 [![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio)](https://visualstudio.microsoft.com/) [![.NET](https://img.shields.io/badge/--512BD4?logo=.net&logoColor=ffffff)](https://dotnet.microsoft.com/) [![C# Discord online members](https://badgen.net/discord/online-members/csharp)](https://discord.gg/csharp)
 
-# Donasi[Donasi witch saweria](https://saweria.co/Meydhi)
+# Donasi[Donasi with saweria](https://saweria.co/Meydhi)
 # Youtube [Subcribe to Meydhi Ari Nugroho](https://www.youtube.com/channel/UCjAf3YPNhbeyLcJ6ZHt5dmA)
 
 
